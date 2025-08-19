@@ -1,10 +1,3 @@
-# GenAI-Talking-Systems-RAG-IndustrialAI
-
-Här är en färdig, ren och professionell README som du kan använda rakt av för ditt projekt:
-
----
-
-# GenAI-Talking-Systems-RAG-IndustrialAI
 
 ## Talking Systems – When AI Starts Understanding Industrial Machines
 
@@ -65,12 +58,4 @@ Contributors:
 * Fredrik Karlsson
 * Azad Karimi
 
----
 
-## License
-
-MIT License (or whichever you prefer).
-
----
-
-Vill du att jag gör en **kort README-mall** för dina labbar också (så att de blir enhetliga men enklare, typ titel + kort beskrivning + kursnamn)?
